@@ -1,0 +1,177 @@
+{
+    "Smart Tourism Tools (STTs)": {
+        "link": "https://sttobservatory.omeka.net/stts_taxonomy",
+        "subindexs": {
+            "(Part of) the touristic offer": {
+                "link": "https://sttobservatory.omeka.net/part_of_the_touristic_offer",
+                "subindexs": {
+                    "Tourist Experience": {
+                        "link": "https://sttobservatory.omeka.net/part_of_the_touristic_offer/tourist_exp",
+                        "subindexs": {
+                            "Fully Digital Experience": {
+                                "link": "https://sttobservatory.omeka.net/part_of_the_touristic_offer/tourist_exp/fully",
+                                "subindexs": {
+                                    "": {
+                                        "link": "",
+                                        "subindexs": {}
+                                    }
+                                }
+                            },
+                            "Partial Digital Experience": {
+                                "link": "https://sttobservatory.omeka.net/part_of_the_touristic_offer/tourist_exp/partial",
+                                "subindexs": {
+                                    "": {
+                                        "link": "",
+                                        "subindexs": {}
+                                    }
+                                }
+                            },
+                            "Building Block": {
+                                "link": "https://sttobservatory.omeka.net/part_of_the_touristic_offer/tourist_exp/bb",
+                                "subindexs": {
+                                    "": {
+                                        "link": "",
+                                        "subindexs": {}
+                                    }
+                                }
+                            },
+                            "": {
+                                "link": "",
+                                "subindexs": {}
+                            }
+                        }
+                    },
+                    "Tourist Experience Lifecycle Management": {
+                        "link": "https://sttobservatory.omeka.net/part_of_the_touristic_offer/tourist_exp_lifecycle",
+                        "subindexs": {
+                            "Fully Digital Experience": {
+                                "link": "https://sttobservatory.omeka.net/part_of_the_touristic_offer/tourist_exp_lifecycle/fully",
+                                "subindexs": {
+                                    "": {
+                                        "link": "",
+                                        "subindexs": {}
+                                    }
+                                }
+                            },
+                            "Partial Digital Experience": {
+                                "link": "https://sttobservatory.omeka.net/part_of_the_touristic_offer/tourist_exp_lifecycle/partial",
+                                "subindexs": {
+                                    "": {
+                                        "link": "",
+                                        "subindexs": {}
+                                    }
+                                }
+                            },
+                            "Building Block": {
+                                "link": "https://sttobservatory.omeka.net/part_of_the_touristic_offer/tourist_exp_lifecycle/bb",
+                                "subindexs": {
+                                    "": {
+                                        "link": "",
+                                        "subindexs": {}
+                                    }
+                                }
+                            },
+                            "": {
+                                "link": "",
+                                "subindexs": {}
+                            }
+                        }
+                    },
+                    "": {
+                        "link": "",
+                        "subindexs": {}
+                    }
+                }
+            },
+            "Marketing": {
+                "link": "https://sttobservatory.omeka.net/marketing",
+                "subindexs": {
+                    "Pre-Consumption": {
+                        "link": "https://sttobservatory.omeka.net/marketing/pre-consumption",
+                        "subindexs": {
+                            "": {
+                                "link": "",
+                                "subindexs": {}
+                            }
+                        }
+                    },
+                    "Consumption": {
+                        "link": "https://sttobservatory.omeka.net/marketing/consumption",
+                        "subindexs": {
+                            "": {
+                                "link": "",
+                                "subindexs": {}
+                            }
+                        }
+                    },
+                    "Post-Consumption": {
+                        "link": "https://sttobservatory.omeka.net/marketing/post-consumption",
+                        "subindexs": {
+                            "": {
+                                "link": "",
+                                "subindexs": {}
+                            }
+                        }
+                    },
+                    "": {
+                        "link": "",
+                        "subindexs": {}
+                    }
+                }
+            },
+            "Management & Operations": {
+                "link": "https://sttobservatory.omeka.net/management_operations",
+                "subindexs": {
+                    "Design of Tourism Products": {
+                        "link": "https://sttobservatory.omeka.net/management__operations/design_of_tp",
+                        "subindexs": {
+                            "": {
+                                "link": "",
+                                "subindexs": {}
+                            }
+                        }
+                    },
+                    "Deployment of Tourism Products": {
+                        "link": "https://sttobservatory.omeka.net/management__operations/deployment_of_tp",
+                        "subindexs": {
+                            "": {
+                                "link": "",
+                                "subindexs": {}
+                            }
+                        }
+                    },
+                    "Operation of Tourism Products": {
+                        "link": "https://sttobservatory.omeka.net/management__operations/operation_of_tp",
+                        "subindexs": {
+                            "": {
+                                "link": "",
+                                "subindexs": {}
+                            }
+                        }
+                    },
+                    "Maintenance/Evolution of Tourism Products": {
+                        "link": "https://sttobservatory.omeka.net/management__operations/maintenance_evolution_of_tp",
+                        "subindexs": {
+                            "": {
+                                "link": "",
+                                "subindexs": {}
+                            }
+                        }
+                    },
+                    "": {
+                        "link": "",
+                        "subindexs": {}
+                    }
+                }
+            },
+            "": {
+                "link": "",
+                "subindexs": {}
+            }
+        }
+    },
+    "": {
+        "link": "",
+        "subindexs": {}
+    }
+}
