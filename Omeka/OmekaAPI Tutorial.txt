@@ -1,0 +1,4 @@
+1. Create an OmekaAPI instance with the respective URL and API key.
+2. To publish an item, the function post_item is invoked with the respetive fields and returns the ID of the generated item.
+3. To insert a file into an item, the function post_file_for_item is initialized with the respetive item ID, the filename, and file data as parameters.
+4. Identical process for inserting a geolocation into an item with the function post_geolocation_for_item and the item ID and address as parameters.
