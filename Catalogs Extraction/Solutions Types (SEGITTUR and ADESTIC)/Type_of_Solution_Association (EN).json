@@ -1,0 +1,277 @@
+[
+    {
+        "Segittur 2022": "Accessibility",
+        "Segittur 2023": "",
+        "Adestic V1": "Accessibility",
+        "Adestic V2": "Accessibility"
+    },
+    {
+        "Segittur 2022": "App Development",
+        "Segittur 2023": "App Development",
+        "Adestic V1": "App Development",
+        "Adestic V2": "App Development"
+    },
+    {
+        "Segittur 2022": [
+            "Efficient Management: Energy",
+            "Efficient Management: Water",
+            "Efficient Management: Air quality",
+            "Efficient Management: Waste"
+        ],
+        "Segittur 2023": "Efficient resource management: water/energy/waste/air quality",
+        "Adestic V1": "Efficient Management: water, air, energy or waste",
+        "Adestic V2": "Efficient Management: water, air, energy or waste"
+    },
+    {
+        "Segittur 2022": "Communication Platforms / Training / Webinars",
+        "Segittur 2023": "Communication platforms/Training/Webinars",
+        "Adestic V1": "Communication, training or webinar platforms",
+        "Adestic V2": "Communication, training or webinar platforms"
+    },
+    {
+        "Segittur 2022": "Semantic Analysis / Active Listening",
+        "Segittur 2023": "Semantic Analysis/Active Listening/Online Reputation",
+        "Adestic V1": "Semantic Analysis/Active Listening",
+        "Adestic V2": "Semantic Analysis/Active Listening"
+    },
+    {
+        "Segittur 2022": "Certification",
+        "Segittur 2023": "Certification",
+        "Adestic V1": "",
+        "Adestic V2": ""
+    },
+    {
+        "Segittur 2022": "Chatbot / Natural Language Processing",
+        "Segittur 2023": "Chatbot / Natural language processing",
+        "Adestic V1": "Chatbot Language Processing",
+        "Adestic V2": "Chatbot Language Processing"
+    },
+    {
+        "Segittur 2022": [
+            "Technological Consultancy",
+            "Tourism Consultancy"
+        ],
+        "Segittur 2023": "Consulting services",
+        "Adestic V1": [
+            "Technology Consulting",
+            "Tourism Consulting"
+        ],
+        "Adestic V2": "Consultancy"
+    },
+    {
+        "Segittur 2022": "Tourism CRM",
+        "Segittur 2023": "Tourism CRM",
+        "Adestic V1": "Tourism CRM",
+        "Adestic V2": "Tourism CRM"
+    },
+    {
+        "Segittur 2022": "Graphic Design / Infographics",
+        "Segittur 2023": "",
+        "Adestic V1": "",
+        "Adestic V2": ""
+    },
+    {
+        "Segittur 2022": "Website Design and Development",
+        "Segittur 2023": "Portal and website development",
+        "Adestic V1": "",
+        "Adestic V2": ""
+    },
+    {
+        "Segittur 2022": "Drones",
+        "Segittur 2023": "Drones",
+        "Adestic V1": "",
+        "Adestic V2": ""
+    },
+    {
+        "Segittur 2022": "Visual / Virtual Environments",
+        "Segittur 2023": "Visual/virtual environments: videomapping/virtual reality/augmented reality",
+        "Adestic V1": "Virtual Environments",
+        "Adestic V2": [
+            "Virtual Environments",
+            "Increased Experience"
+        ]
+    },
+    {
+        "Segittur 2022": "Artificial Intelligence",
+        "Segittur 2023": "",
+        "Adestic V1": "Artificial intelligence",
+        "Adestic V2": "Artificial intelligence"
+    },
+    {
+        "Segittur 2022": "IoT (Internet of Things) / Wearables",
+        "Segittur 2023": "IoT (Internet of Things)/Wearables",
+        "Adestic V1": "IoT (Internet of Things)",
+        "Adestic V2": "IoT (Internet of Things)"
+    },
+    {
+        "Segittur 2022": "Marketing / Promotion / Sales",
+        "Segittur 2023": "",
+        "Adestic V1": "",
+        "Adestic V2": ""
+    },
+    {
+        "Segittur 2022": "Mobility",
+        "Segittur 2023": "Mobility/Transport",
+        "Adestic V1": "Mobility",
+        "Adestic V2": "Mobility"
+    },
+    {
+        "Segittur 2022": "Other Hardware / Software Solutions",
+        "Segittur 2023": "Other solutions HW / SW",
+        "Adestic V1": [
+            "Software",
+            "POS Software"
+        ],
+        "Adestic V2": "Software"
+    },
+    {
+        "Segittur 2022": "Smart Destination / Smart City Platform",
+        "Segittur 2023": "Smart Destination / Smart City platforms",
+        "Adestic V1": "DTI/Smart City Platform",
+        "Adestic V2": "DTI/Smart City Platform"
+    },
+    {
+        "Segittur 2022": "Health",
+        "Segittur 2023": "Health",
+        "Adestic V1": "",
+        "Adestic V2": ""
+    },
+    {
+        "Segittur 2022": "Safety",
+        "Segittur 2023": "Security/Blockchain/Capacity control",
+        "Adestic V1": "Security",
+        "Adestic V2": "Security"
+    },
+    {
+        "Segittur 2022": "Sensorisation",
+        "Segittur 2023": "Monitoring",
+        "Adestic V1": "Sensorization",
+        "Adestic V2": "Sensorization"
+    },
+    {
+        "Segittur 2022": "Data Analytics Systems (Big data, BI, etc.)",
+        "Segittur 2023": "Data analytics systems (Big data/BI, etc.)",
+        "Adestic V1": "Data Analytics Systems (Big Data)",
+        "Adestic V2": "Data Analytics Systems (Big Data)"
+    },
+    {
+        "Segittur 2022": "Geographic Information Systems (GIS)",
+        "Segittur 2023": "Geographic Information Systems (GIS)",
+        "Adestic V1": "Geographic Information Systems (GIS)",
+        "Adestic V2": "Geographic Information Systems (GIS)"
+    },
+    {
+        "Segittur 2022": "Wi-Fi / Mi-Fi (mobile Wi-Fi)",
+        "Segittur 2023": "Wi-Fi/Mi-Fi (mobile Wi-Fi)",
+        "Adestic V1": "",
+        "Adestic V2": ""
+    },
+    {
+        "Segittur 2022": "",
+        "Segittur 2023": "Intelligent Signage/Totems/Tourism Signage",
+        "Adestic V1": "",
+        "Adestic V2": ""
+    },
+    {
+        "Segittur 2022": "",
+        "Segittur 2023": "Marketing/Advertising/Promotion/Graphic design",
+        "Adestic V1": "",
+        "Adestic V2": ""
+    },
+    {
+        "Segittur 2022": "",
+        "Segittur 2023": "2D/3D modeling/Typhlological mockups",
+        "Adestic V1": "",
+        "Adestic V2": ""
+    },
+    {
+        "Segittur 2022": "",
+        "Segittur 2023": "Sales/booking platforms",
+        "Adestic V1": "",
+        "Adestic V2": ""
+    },
+    {
+        "Segittur 2022": "",
+        "Segittur 2023": "Data providers",
+        "Adestic V1": "",
+        "Adestic V2": ""
+    },
+    {
+        "Segittur 2022": "",
+        "Segittur 2023": "",
+        "Adestic V1": "Online Commerce (e-commerce)",
+        "Adestic V2": "Online Commerce (e-commerce)"
+    },
+    {
+        "Segittur 2022": "",
+        "Segittur 2023": "",
+        "Adestic V1": "ERP for ticket sales and tourist services",
+        "Adestic V2": "ERP for ticket sales and tourist services"
+    },
+    {
+        "Segittur 2022": "",
+        "Segittur 2023": "",
+        "Adestic V1": "ERP Tourism Companies",
+        "Adestic V2": "ERP Tourism Companies"
+    },
+    {
+        "Segittur 2022": "",
+        "Segittur 2023": "",
+        "Adestic V1": "GDS Tourist Products",
+        "Adestic V2": "GDS Tourist Products"
+    },
+    {
+        "Segittur 2022": "",
+        "Segittur 2023": "",
+        "Adestic V1": "Business Travel Services Manager",
+        "Adestic V2": ""
+    },
+    {
+        "Segittur 2022": "",
+        "Segittur 2023": "",
+        "Adestic V1": "API Integration",
+        "Adestic V2": "API Integration"
+    },
+    {
+        "Segittur 2022": "",
+        "Segittur 2023": "",
+        "Adestic V1": "Digital marketing",
+        "Adestic V2": "Digital marketing"
+    },
+    {
+        "Segittur 2022": "",
+        "Segittur 2023": "",
+        "Adestic V1": "Online payment methods",
+        "Adestic V2": "Online payment methods"
+    },
+    {
+        "Segittur 2022": "",
+        "Segittur 2023": "",
+        "Adestic V1": "Booking engine",
+        "Adestic V2": "Booking engine"
+    },
+    {
+        "Segittur 2022": "",
+        "Segittur 2023": "",
+        "Adestic V1": "Management program",
+        "Adestic V2": "Management program"
+    },
+    {
+        "Segittur 2022": "",
+        "Segittur 2023": "",
+        "Adestic V1": "Sustainability",
+        "Adestic V2": "Sustainability"
+    },
+    {
+        "Segittur 2022": "",
+        "Segittur 2023": "",
+        "Adestic V1": "Event Technology",
+        "Adestic V2": "Event Technology"
+    },
+    {
+        "Segittur 2022": "",
+        "Segittur 2023": "",
+        "Adestic V1": "",
+        "Adestic V2": "Network and Telecommunications Infrastructure"
+    }
+]
